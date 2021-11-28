@@ -24,6 +24,8 @@ If you are interested in finding out more about how a Telecommunications Enginee
   
   ##
 
+
+
 <div align="center">
   <a href="https://github.com/guirmiguel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guirmiguel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
