@@ -1,7 +1,6 @@
 <h2> Hi, I'm Guilherme Miguel! 👋</h2>
 <img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mnngvio1jxzx6iy7itmww32vmp6gvjakvx24uexh&rid=giphy.gif&ct=g"  width="230">
 <p><em>Electrical Engineer with an emphasis on Telecommunications at <a href="https://portal.fei.edu.br/">FEI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>MBA - Devops Engineering - Integration Architeture at <a href="https://www.fiap.com.br/">FIAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-  </br>Device Development Consultant  at <a href="https://www.linkedin.com/company/telef%C3%B3nica/">TELEFONICA|VIVO</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: gr-miguel](https://img.shields.io/badge/-grmiguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gr-miguel/)](https://www.linkedin.com/in/gr-miguel/)
