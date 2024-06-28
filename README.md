@@ -84,7 +84,7 @@ If you are interested in finding out more about how a Telecommunications Enginee
   <p>
     <a href="https://git.io/streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gui's streak" src="https://github-readme-streak-stats.demolab.com/?user=GuiRMiguel&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gui's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=GuiRMiguel&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -103,8 +103,8 @@ If you are interested in finding out more about how a Telecommunications Enginee
   <a href="#"><img alt="Gui's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=guirmiguel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
   
 </details>
-### 📫 Let's Connect!
 <div> 
+  <h3>📫 Let's Connect! </h3>
   <a href="https://api.whatsapp.com/send?phone=5511975722812&text=Hello!!!%20%F0%9F%99%82" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gr-miguel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gr.miguel@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
